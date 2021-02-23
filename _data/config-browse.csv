@@ -1,4 +1,4 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true,,
+field,display_name,btn
+title,Title,
+bill_number,Bill Number,true
+public_act_number,Public Act Number,true

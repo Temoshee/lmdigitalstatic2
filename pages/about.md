@@ -10,15 +10,24 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection Builder CDM Skin;About the About Page" %}
 
-## About the Collection Builder CDM Skin
+# This is a collection of selected legislative history documents mostly from 1973-1995.
 
-This demo collection features items from the University of Idaho Library's [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), and is build using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
+The State Law Library frequently receives requests for scanned images of paper documents related to the legislative history of Michigan public acts. Rather then delete these files, we put them here for the next time.
 
-CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. 
-The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
+## Daily requests for unique items
 
-Psychiana was a "mail order" religion popular in the 1930s and 40s.
-Visit the full [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/) (also built with a version of CollectionBuilder) or the [Frank B. Robinson Papers](http://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana) finding aid to learn more.
+Many of these documents may not be available elsewhere. Before we set up a scanner the practice was to photocopy the pages and send them to the researcher. Consequently, some of the pages have been run through photocopiers so many times that the ink is disappearing. By scanning once and then posting the images here it helps with preservation.
 
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %}
+## A living knowledge base
+
+We hope to develop and maintain this useful information as part of the regular course of doing business rather than having a separate project.
+
+## Features
+
+- Search by public act number in the following exact format: 1977-PA-999
+- This site does not search the text of any documents
+
+## Questions
+
+Please contact us at: lmlawlib@michigan.gov
+
