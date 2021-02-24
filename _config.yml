@@ -43,7 +43,7 @@ metadata: lmdigitalstatic2
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: p16110coll6
 # CONTENTdm server url
-cdm-url: https://cdm16110.contentdm.oclc.org/
+cdm-url: https://cdm16110.contentdm.oclc.org
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
