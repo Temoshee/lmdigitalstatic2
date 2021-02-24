@@ -18,12 +18,12 @@ source-code: https://github.com/Temoshee
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Frequently Requested Legislative History Documents
+title: Requested bill analyses, bills, journal entries
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: bills, bill analyses, journal entries
+tagline: Michigan legislative history documents
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "We frequently receive requests to scan paper documents to PDF format. Rather than deleting them after we respond to questions, we put them here for future reference"
+description: "The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 # keywords: idaho;history;inland northwest 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
