@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: https://cdm16110.contentdm.oclc.org/customizations/collection/acapitolview/images/landingpage/large-Rise%20and%20Progress%20of%20Michigan%202016%20by%20David%20Marvin.jpg
+featured-image: /assets/img/rise_and_progress_mi_david_marvin.jpg
 home-title-y-padding: 4em # the margin from the top your title portion will appear.
 home-banner-image-position: center # [options: top, center, bottom] Default: top
 #carousel-height: # in px, but don't include the "px"; default is 450.
