@@ -4,23 +4,15 @@
 
         <div class="col-md-7  px-4 mt-2">
 
-            <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
-            <p class="text-white"><small>{{ site.description }}</small></p>
-            <nav>
-                <ul class="nav nav-pills ">
-                    {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
-                    {% for nav in navItems %}
-                    <li class="nav-item">
-                    {% if nav.stub %}
-                        <a class="nav-link text-light{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
-                    {%- else -%}
-                    {% assign childStub = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' | first %}
-                        <a class="nav-link text-light{% if page.url == childStub.stub %} active{% endif %}" href="{{ childStub.stub | relative_url }}">{{ nav.display_name }}</a>
-                    {% endif %}
-                    </li>
-                    {%- endfor -%}
-                </ul>
-            </nav>
+            <p class="text-white">
+            <a href="https://www.michigan.gov/lawlibrary">
+                Library of Michigan<br>
+                State Law Library<br>
+                702 West Kalamazoo St.<br>
+                Lansing MI 48909<br>
+                lmlawlib@michigan.gov<br>
+            </a>
+            </p>
 
         </div>
 
