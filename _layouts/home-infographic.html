@@ -3,17 +3,20 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-8">
-
-    {% include index/description.html %}
-    {% include index/carousel.html%}
-    
-  </div>
-  <div class="col-md-4">  
-
-  </div>
   <div class="col-md-12">
 
+    {% include index/description.html %}
+   
+  </div>
+  <div class="col-md-6">  
+
+    {% include index/carousel.html%}
+
+  </div>
+  <div class="col-md-6">
+
+{% include feature/card.html header="How to Search this Collection" text="This website is useful to researchers who already have a public act number and year in hand. Subject matter and MCL number searches will not produce any results. The search box above is quicker initially but may produce irrelevant results. To zero-in on a specific public act click on the Browse button above and enter the public act into the search box (the box with the word 'Filter ...' inside) in the following format 1976-PA-390. This should only pull up documents related to that act. The same type of search can be performed for bill numbers. For example: 1995-SB-344. Using the Browse button above is slower initially but more accurate. This website does not search the text of any documents. It only looks for public act numbers and bill numbers."%}
+   
   </div>
 
 </div>
