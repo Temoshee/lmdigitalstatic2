@@ -976,18 +976,18 @@ cdm107346,107346,Bill Analysis,1996-HB-5570;1996-HB-5571;1996-HB-5572;1996-HB-55
 cdm107347,107347,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf
 cdm107348,107348,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf
 cdm107349,107349,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf
-cdm107705,107705,Introduced bill,1929-SB-52 ; 1929-File-239 ; 1929-File-53,1929 PA 16,application/pdf
-cdm107706,107706,Introduced bill,1929-SB-52 ; 1929-File-239 ; 1929-File-53,1929 PA 16,application/pdf
+cdm107705,107705,Introduced bill,1929-SB-52;1929-File-239;1929-File-53,1929-PA-16,application/pdf
+cdm107706,107706,Introduced bill,1929-SB-52;1929-File-239;1929-File-53,1929-PA-16,application/pdf
 cdm107707,107707,Introduced bill,1993-SB-113,,application/pdf
 cdm107708,107708,Bill Analysis,1982-SB-914,1982-PA-313,application/pdf
 cdm107709,107709,Bill Analysis,1981-SB-162,1981-PA-94,application/pdf
 cdm107710,107710,Bill Analysis,1981-SB-162,1981-PA-94,application/pdf
 cdm107711,107711,Senate Journal entries,1967-SB-89,1967-PA-281,application/pdf
 cdm107712,107712,House Journal entries,1967-SB-89,1967-PA-281,application/pdf
-cdm107713,107713,House Journal entries,,,application/pdf
+cdm107713,107713,House Journal entries,1967-HB-2142,Did not become law,application/pdf
 cdm107714,107714,Bill synopsis,1977-HB-4752,1977-PA-303,application/pdf
-cdm107715,107715,Bill Analysis,4752,1977 PA 303,application/pdf
-cdm107716,107716,Bill Analysis,4752,1977 PA 303,application/pdf
+cdm107715,107715,Bill Analysis,1977-HB-4752,1977-PA-303,application/pdf
+cdm107716,107716,Bill Analysis,1977-HB-4752,1977-PA-303,application/pdf
 cdm107717,107717,Enrolled bill,1977-HB-4752,1977-PA-303,application/pdf
 cdm107718,107718,Bill Analysis,1977-HB-4752,1977-PA-303,application/pdf
 cdm107719,107719,Introduced bill,1977-HB-4752,1977-PA-303,application/pdf
@@ -1080,7 +1080,7 @@ cdm108818,108818,Bill Analysis,1993-SB-299,1994-PA-202,application/pdf
 cdm108819,108819,Bill Analysis,1993-SB-299,1994-PA-202,application/pdf
 cdm108820,108820,Bill Analysis,1993-HB-4614,1994-PA-207,application/pdf
 cdm108821,108821,Bill Analysis,1993-HB-4614,1994-PA-207,application/pdf
-cdm108822,108822,Bill Analysis,,,application/pdf
+cdm108822,108822,Bill Analysis,1993-HB-4428;1993-SB-721,1994-PA-208;1994-PA-222,application/pdf
 cdm108823,108823,Bill Analysis,1993-HB-4614,1994-PA-207,application/pdf
 cdm108824,108824,Bill Analysis,1993-HB-4638;1993-SB-299,1994-PA-206;1994-PA-202,application/pdf
 cdm108825,108825,Bill Analysis,1993-SB-299,1994-PA-202,application/pdf
@@ -1334,8 +1334,8 @@ cdm110623,110623,Bill Analysis,1991-HB-4108,1992-PA-1,application/pdf
 cdm112416,112416,Bill Analysis,1991-HB-4108,1992-PA-1,application/pdf
 cdm112479,112479,Bill Analysis,1989-SB-731,1990-PA-307,application/pdf
 cdm112483,112483,Bill Analysis,1989-SB-731,1990-PA-307,application/pdf
-cdm112528,112528,Bill Analysis,,1936 extra session-PA-1,application/pdf
-cdm112572,112572,Bill Analysis,,1936 extra session-PA-1,application/pdf
+cdm112528,112528,Bill Analysis,1936-extra session-HB-1,1936 extra session-PA-1,application/pdf
+cdm112572,112572,Bill Analysis,1936-extra session-HB-1,1936 extra session-PA-1,application/pdf
 cdm112715,112715,Bill Analysis,1987-SB-323,1987-PA-141,application/pdf
 cdm112716,112716,Bill Analysis,1987-SB-323,1987-PA-141,application/pdf
 cdm112717,112717,Bill Analysis,1987-SB-323,1987-PA-141,application/pdf
@@ -1346,7 +1346,7 @@ cdm112728,112728,Bill Analysis,1994-HB-5306,1994-PA-110,application/pdf
 cdm112734,112734,Bill Analysis,1994-HB-5306,1994-PA-110,application/pdf
 cdm112735,112735,Bill Analysis,1979-HB-5224,1979-PA-217,application/pdf
 cdm112736,112736,Bill Analysis,1979-HB-5224,1979-PA-217,application/pdf
-cdm112742,112742,Bill Analysis,,1936 extra session-PA-1,application/pdf
+cdm112742,112742,Bill Analysis,1936-extra session-HB-1,1936 extra session-PA-1,application/pdf
 cdm112899,112899,Bill Analysis,1979-SB-104,1980-PA-300,application/pdf
 cdm112902,112902,Bill Analysis,1979-SB-104,1980-PA-300,application/pdf
 cdm112910,112910,Bill Analysis,1979-SB-104,1980-PA-300,application/pdf
