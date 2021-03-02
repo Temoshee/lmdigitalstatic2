@@ -24,12 +24,12 @@ Many of these documents may not be available elsewhere. Before we set up a scann
 
 We hope to develop and maintain this useful information as part of the regular course of doing business rather than having a separate project.
 
-## Features
+### Features
 
-- Search by public act number in the following exact format: 1977-PA-999
+- Search by public act number in the following exact format: [1976-PA-390](https://temoshee.github.io/lmdigitalstatic2/browse.html#1976-pa-390)
 - This site does not search the text of any documents
 
-## Questions
+### Questions
 
 Please contact us at: <lmlawlib@michigan.gov>
 
