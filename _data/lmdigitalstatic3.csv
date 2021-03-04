@@ -1,4 +1,4 @@
-objectid,cdmid,title,bill_number,public_act_number,format,date
+objectid,cdmid,title,bill_number,public_act_number,format,date_published
 cdm148612,148612,Public Act,1975-HB-5314,1976-PA-390,application/pdf,1976
 cdm148501,148501,Senate Journal Entries,1975-HB-5314,1976-PA-390,application/pdf,1976
 cdm148503,148503,House Journal Entries,1975-HB-5314,1976-PA-390,application/pdf,1976
