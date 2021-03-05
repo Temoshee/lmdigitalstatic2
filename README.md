@@ -1,4 +1,4 @@
-# Bring-Your-Own front end for Library of Michigan Digital
+# Bring-Your-Own interface for Library of Michigan Digital
 
 This is an experimental discovery layer for Library of Michigan Digital. It is a very narrowly focused way to search a small subset of documents without including all of the files in LMDigital. It comes from my experience as a reference librarian where I quickly need to access these documents without navigating a larger set of files. It is created from a [CollectionBuilder](https://collectionbuilder.github.io/) template.
 
