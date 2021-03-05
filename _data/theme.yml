@@ -24,7 +24,7 @@ home-banner-image-position: center # [options: top, center, bottom] Default: top
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-#about-featured-image:
+about-featured-image: https://www.michigan.gov/images/libraryofmichigan/lm_2019_lawlibrarypanel_642477_7.jpg
 
 ##########
 # BROWSE PAGE

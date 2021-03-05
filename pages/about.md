@@ -6,10 +6,6 @@ permalink: /about.html
 # Look in _includes/feature for options to add features to the page
 ---
 
-{% include feature/jumbotron.html %}
-
-{% include feature/nav-menu.html sections="About the Collection;Features;Questions" %}
-
 # About the Collection 
 
 ### This is a collection of selected legislative history documents mostly from 1973-1995.
