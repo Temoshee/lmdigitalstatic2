@@ -2,6 +2,7 @@
 title: About
 layout: about
 permalink: /about.html
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to add features to the page
 ---
