@@ -1246,9 +1246,9 @@
           "credit": "Requested bill analyses, bills, journal entries"
         },
         "start_date": { 
-          "month": "24",
-          "day": "",
-          "year": "1989=07"
+          "month": "07",
+          "day": "24",
+          "year": "1989"
         },
         "text": {
           "headline": "Bill Analysis"
@@ -24429,7 +24429,7 @@
         "start_date": { 
           "month": "01",
           "day": "17",
-          "year": "197"
+          "year": "1978"
         },
         "text": {
           "headline": "Bill Synopsis"
@@ -28109,7 +28109,10 @@
           "link": "/lmdigitalstatic2/items/cdm147672.html",
           "credit": "Requested bill analyses, bills, journal entries"
         },
-        "start_date": { "year": "1978"
+        "start_date": { 
+          "month": "03",
+          "day": "07",
+          "year": "1978"
         },
         "text": {
           "headline": "Bill analysis"
