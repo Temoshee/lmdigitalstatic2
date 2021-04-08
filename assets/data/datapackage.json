@@ -4,7 +4,7 @@
     "title": "Requested bill analyses, bills, journal entries Data",
     "description": "Metadata and data derived from Requested bill analyses, bills, journal entries. The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
     
-    "homepage": "https://temoshee.github.io/lmdigitalstatic2/",
+    "homepage": "https://libraryofmichigan.github.io/billanalysis/",
     "contributors": [
         {
             "title": "Library of Michigan, State Law Library",
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "/lmdigitalstatic2/assets/img/rise_and_progress_mi_david_marvin.jpg",
+    "image": "/billanalysis/assets/img/rise_and_progress_mi_david_marvin.jpg",
     "licenses": [
         {
             "name": "CC0-1.0",
