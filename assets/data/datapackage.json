@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "requested-bill-analyses-bills-journal-entries-data",
     "title": "Requested bill analyses, bills, journal entries Data",
-    "description": "Metadata and data derived from Requested bill analyses, bills, journal entries. The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    "description": "Metadata and data derived from Requested bill analyses, bills, journal entries. The &lt;a href=&quot;https://www.michigan.gov/lawlibrary&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;State Law Library&lt;/a&gt; frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
     
     "homepage": "https://libraryofmichigan.github.io/billanalysis/",
     "contributors": [
