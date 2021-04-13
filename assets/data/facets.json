@@ -13,7 +13,7 @@
         {
             "field": "format",
             "terms": { 
-                "application/pdf": 2136
+                "application/pdf": 2135
             }
         }
         
