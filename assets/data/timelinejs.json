@@ -19465,21 +19465,6 @@
         }
       },{
         "media": {
-          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/110561",
-          "caption": "Bill Analysis",
-          "link": "/billanalysis/items/cdm110561.html",
-          "credit": "Requested bill analyses, bills, journal entries"
-        },
-        "start_date": { 
-          "month": "02",
-          "day": "26",
-          "year": "1991"
-        },
-        "text": {
-          "headline": "Bill Analysis"
-        }
-      },{
-        "media": {
           "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/110566",
           "caption": "Bill Analysis",
           "link": "/billanalysis/items/cdm110566.html",
