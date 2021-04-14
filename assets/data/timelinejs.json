@@ -31121,6 +31121,21 @@
         "text": {
           "headline": "Bill analysis"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148791",
+          "caption": "Bill analysis",
+          "link": "/billanalysis/items/cdm148791.html",
+          "credit": "Requested bill analyses, bills, journal entries"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "21",
+          "year": "1992"
+        },
+        "text": {
+          "headline": "Bill analysis"
+        }
       }
     ]
 }
