@@ -31076,6 +31076,21 @@
         "text": {
           "headline": "Senate Journal entries"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148787",
+          "caption": "Bill analysis",
+          "link": "/billanalysis/items/cdm148787.html",
+          "credit": "Requested bill analyses, bills, journal entries"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "26",
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Bill analysis"
+        }
       }
     ]
 }
