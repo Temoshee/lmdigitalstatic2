@@ -10667,6 +10667,11 @@
         "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148787",
         "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll6/id/148787.pdf",
         "reference_url": "https://libraryofmichigan.github.io/billanalysis/items/cdm148787.html"
+    },
+    { 
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148792",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll6/id/148792.pdf",
+        "reference_url": "https://libraryofmichigan.github.io/billanalysis/items/cdm148792.html"
     }
     
 ] }
