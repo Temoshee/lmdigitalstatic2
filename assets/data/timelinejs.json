@@ -31136,6 +31136,34 @@
         "text": {
           "headline": "Bill analysis"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148793",
+          "caption": "Bill analysis",
+          "link": "/billanalysis/items/cdm148793.html",
+          "credit": "Requested bill analyses, bills, journal entries"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "Bill analysis"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll6/id/148794",
+          "caption": "Introduced bill",
+          "link": "/billanalysis/items/cdm148794.html",
+          "credit": "Requested bill analyses, bills, journal entries"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "07",
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Introduced bill"
+        }
       }
     ]
 }
