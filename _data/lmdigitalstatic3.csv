@@ -260,9 +260,9 @@ cdm96327,96327,Bill Analysis,1973-HB-4482,1974-PA-250,application/pdf,1974-05-23
 cdm96328,96328,Bill Analysis,1973-HB-4482,1974-PA-250,application/pdf,1974-05-23
 cdm96335,96335,Bill Analysis,1981-SB-358,1982-PA-407,application/pdf,1982-06-07
 cdm96336,96336,Bill Analysis,1981-SB-358,1982-PA-407,application/pdf,1982-06-07
-cdm96338,96338,Bill Analysis,1992-SB-691;1992-SB-692,1992-PA-182,application/pdf,1992-02-25
-cdm96339,96339,Bill Analysis,1992-SB-691;1992-SB-692,1992-PA-182,application/pdf,1992-03-25
-cdm96340,96340,Bill Analysis,1992-SB-692,1992-PA-182,application/pdf,1993-01-26
+cdm96338,96338,Bill Analysis,1992-SB-691;1992-SB-692,1992_PA_182,application/pdf,1992-02-25
+cdm96339,96339,Bill Analysis,1992-SB-691;1992-SB-692,1992_PA_182,application/pdf,1992-03-25
+cdm96340,96340,Bill Analysis,1992-SB-692,1992_PA_182,application/pdf,1993-01-26
 cdm96342,96342,Bill Analysis,1994-HB-5309;1994-HB-5310;1994-HB-5311,1994-PA-226;1994-PA-227;1994-PA-443,application/pdf,1994-03-24
 cdm96343,96343,Bill Analysis,1994-HB-5310;1994-HB-5311,1994-PA-226;1994-PA-227,application/pdf,1994-09-13
 cdm96345,96345,Bill Analysis,1992-HB-5968,1992-PA-245,application/pdf,1992-09-18
@@ -281,11 +281,11 @@ cdm96583,96583,Bill Analysis,1993-SB-40;1993-SB-41;1994-HB-5439,1994-PA-217;1994
 cdm96584,96584,Bill Analysis,1993-SB-40;1993-SB-41;1994-HB-5439,1994-PA-217;1994-PA-218;1994-PA-322,application/pdf,1994-05-10
 cdm96585,96585,Bill Analysis,1993-SB-40;1993-SB-41,1994-PA-217;1994-PA-218,application/pdf,1994-07-06
 cdm96586,96586,Bill Analysis,1993-SB-40;1993-SB-41,1994-PA-217;1994-PA-218,application/pdf,1993-02-04
-cdm96588,96588,Bill Analysis,1991-HB-4130,1992-PA-181,application/pdf,1991-04-25
-cdm96589,96589,Bill Analysis,1991-HB-4127;1991-HB-4130,1992-PA-181,application/pdf,1991-08-15
-cdm96590,96590,Bill Analysis,1991-HB-4130,1992-PA-181,application/pdf,1992-10-29
-cdm96591,96591,Bill Analysis,1991-HB-4130,1992-PA-181,application/pdf,1991-11-04
-cdm96592,96592,Bill Analysis,1991-HB-4130,1992-PA-181,application/pdf,1991-02-12
+cdm96588,96588,Bill Analysis,1991-HB-4130,1992_PA_181,application/pdf,1991-04-25
+cdm96589,96589,Bill Analysis,1991-HB-4127;1991-HB-4130,1992_PA_181,application/pdf,1991-08-15
+cdm96590,96590,Bill Analysis,1991-HB-4130,1992_PA_181,application/pdf,1992-10-29
+cdm96591,96591,Bill Analysis,1991-HB-4130,1992_PA_181,application/pdf,1991-11-04
+cdm96592,96592,Bill Analysis,1991-HB-4130,1992_PA_181,application/pdf,1991-02-12
 cdm96594,96594,Bill Analysis,1991-SB-334;1991-SB-335,1992-PA-22;1992-PA-23,application/pdf,1991-06-18
 cdm96595,96595,Bill Analysis,1991-SB-145;1991-SB-334;1991-SB-335,1992-PA-21;1992-PA-22;1992-PA-23,application/pdf,1992-05-14
 cdm96596,96596,Bill Analysis,1991-SB-334;1991-SB-335,1992-PA-22;1992-PA-23,application/pdf,1991-06-12
@@ -414,10 +414,10 @@ cdm97421,97421,Bill Analysis,1995-HB-4367,1995-PA-187,application/pdf,1996-01-12
 cdm97424,97424,Bill Analysis,1993-HB-4023,1993-PA-23,application/pdf,1993-02-05
 cdm97425,97425,Bill Analysis,1993-HB-4023,1993-PA-23,application/pdf,1993-02-16
 cdm97426,97426,Bill Analysis,1993-HB-4023,1993-PA-23,application/pdf,1993-05-26
-cdm97439,97439,Bill Analysis,1992-SB-717,1992-PA-125,application/pdf,1992-06-15
-cdm97440,97440,Bill Analysis,1992-SB-717,1992-PA-125,application/pdf,1992-04-24
-cdm97441,97441,Bill Analysis,1992-SB-717,1992-PA-125,application/pdf,1992-04-30
-cdm97442,97442,Bill Analysis,1992-SB-717,1992-PA-125,application/pdf,1992-05-21
+cdm97439,97439,Bill Analysis,1992-SB-717,1992_PA_125,application/pdf,1992-06-15
+cdm97440,97440,Bill Analysis,1992-SB-717,1992_PA_125,application/pdf,1992-04-24
+cdm97441,97441,Bill Analysis,1992-SB-717,1992_PA_125,application/pdf,1992-04-30
+cdm97442,97442,Bill Analysis,1992-SB-717,1992_PA_125,application/pdf,1992-05-21
 cdm97444,97444,Bill Analysis,1993-HB-4187,1993-PA-45,application/pdf,1993-02-22
 cdm97445,97445,Bill Analysis,1993-HB-4187,1993-PA-45,application/pdf,1993-02-24
 cdm97446,97446,Bill Analysis,1993-HB-4187,1993-PA-45,application/pdf,1993-05-03
@@ -509,8 +509,8 @@ cdm98827,98827,Bill Analysis,1974-SB-1207,1974-PA-266,application/pdf,1974-06-27
 cdm98832,98832,Bill Analysis,1973-HB-5227,1974-PA-150,application/pdf,1973-11-21
 cdm98833,98833,Bill Analysis,1983-HB-5132,1984-PA-325,application/pdf,1984-03-22
 cdm98851,98851,House Bills,1979-HB-4555,1980-PA-350,application/pdf,1979
-cdm98861,98861,Bill Analysis,1991-HB-5316,1992-PA-19,application/pdf,1991-11-20
-cdm98862,98862,Bill Analysis,1991-HB-5316,1992-PA-19,application/pdf,1992-02-24
+cdm98861,98861,Bill Analysis,1991-HB-5316,1992_PA_19,application/pdf,1991-11-20
+cdm98862,98862,Bill Analysis,1991-HB-5316,1992_PA_19,application/pdf,1992-02-24
 cdm98866,98866,Bill Analysis,1983-HB-4994,1984-PA-274,application/pdf,1983-11-09
 cdm98867,98867,Bill Analysis,1983-HB-4994,1984-PA-274,application/pdf,1983-11-23
 cdm98868,98868,Bill Analysis,1983-HB-4994,1984-PA-274,application/pdf,1984-12-03
@@ -973,9 +973,9 @@ cdm107082,107082,House Journal entries,1989-HB-4146,1989-PA-131,application/pdf,
 cdm107344,107344,Bill Analysis,1996-HB-5570;1996-HB-5571;1996-HB-5572;1996-HB-5573;1996-HB-5574,1996-PA-515;1996-PA-516;1996-PA-517;1996-PA-518;1996-PA-472,application/pdf,1997-01-14
 cdm107345,107345,Bill Analysis,1996-HB-5570;1996-HB-5571;1996-HB-5572;1996-HB-5573;1996-HB-5574,1996-PA-515;1996-PA-516;1996-PA-517;1996-PA-518;1996-PA-472,application/pdf,1996-10-15
 cdm107346,107346,Bill Analysis,1996-HB-5570;1996-HB-5571;1996-HB-5572;1996-HB-5573;1996-HB-5574,1996-PA-515;1996-PA-516;1996-PA-517;1996-PA-518;1996-PA-472,application/pdf,1996-09-24
-cdm107347,107347,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf,1991-08-08
-cdm107348,107348,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf,1991-11-14
-cdm107349,107349,Bill Analysis,1991-HB-5029;1991-HB-5030,1992-PA-123;1992-PA-124,application/pdf,1991-12-04
+cdm107347,107347,Bill Analysis,1991-HB-5029;1991-HB-5030,1992_PA_123;1992_PA_124,application/pdf,1991-08-08
+cdm107348,107348,Bill Analysis,1991-HB-5029;1991-HB-5030,1992_PA_123;1992_PA_124,application/pdf,1991-11-14
+cdm107349,107349,Bill Analysis,1991-HB-5029;1991-HB-5030,1992_PA_123;1992_PA_124,application/pdf,1991-12-04
 cdm107705,107705,Introduced bill,1929-SB-52;1929-File-239;1929-File-53,1929-PA-16,application/pdf,1929
 cdm107706,107706,Introduced bill,1929-SB-52;1929-File-239;1929-File-53,1929-PA-16,application/pdf,1929
 cdm107707,107707,Introduced bill,1993-SB-113,,application/pdf,1993-01-13
@@ -1780,13 +1780,13 @@ cdm147529,147529,House Journal entries,1993-HB-4837,1994-PA-411,application/pdf,
 cdm147530,147530,Introduced bill,1993-HB-4837,1994-PA-411,application/pdf,1993-06-08
 cdm147531,147531,Senate Journal entries,1993-HB-4837,1994-PA-411,application/pdf,1994
 cdm147532,147532,Substitute bill S-3,1993-HB-4837,1994-PA-411,application/pdf,1993
-cdm147533,147533,Bill analysis,1992-HB-5701,1992-PA-130,application/pdf,1992-04-08
-cdm147534,147534,Enrolled bill,1992-HB-5701,1992-PA-130,application/pdf,1992
-cdm147535,147535,House Journal entries,1992-HB-5701,1992-PA-130,application/pdf,1992
-cdm147536,147536,Bill analysis,1992-HB-5701,1992-PA-130,application/pdf,1992-06-03
-cdm147537,147537,Introduced bill,1992-HB-5701,1992-PA-130,application/pdf,1992-03-18
-cdm147538,147538,Senate Journal entries,1992-HB-5701,1992-PA-130,application/pdf,1992
-cdm147539,147539,Summary,1992-HB-5701,1992-PA-130,application/pdf,1992-03-30
+cdm147533,147533,Bill analysis,1992-HB-5701,1992_PA_130,application/pdf,1992-04-08
+cdm147534,147534,Enrolled bill,1992-HB-5701,1992_PA_130,application/pdf,1992
+cdm147535,147535,House Journal entries,1992-HB-5701,1992_PA_130,application/pdf,1992
+cdm147536,147536,Bill analysis,1992-HB-5701,1992_PA_130,application/pdf,1992-06-03
+cdm147537,147537,Introduced bill,1992-HB-5701,1992_PA_130,application/pdf,1992-03-18
+cdm147538,147538,Senate Journal entries,1992-HB-5701,1992_PA_130,application/pdf,1992
+cdm147539,147539,Summary,1992-HB-5701,1992_PA_130,application/pdf,1992-03-30
 cdm147540,147540,House Journal entries,1966-SB-901,1966-PA-220,application/pdf,1966
 cdm147541,147541,Introduced bill,1966-SB-901,1966-PA-220,application/pdf,1966-02-23
 cdm147542,147542,Senate Journal entries,1966-SB-901,1966-PA-220,application/pdf,1966
@@ -1820,8 +1820,8 @@ cdm147569,147569,Substitute bill H-2,1985-HB-5163,1986-PA-175,application/pdf,19
 cdm147570,147570,Substitute bill S-3,1985-HB-5163,1986-PA-175,application/pdf,1985
 cdm147571,147571,Senate Journal entries,1985-HB-5154,1986-PA-178,application/pdf,1986
 cdm147572,147572,Bill analysis,1969-HB-2436;1969-SB-999,1969-PA-165,application/pdf,1969-03-20
-cdm147573,147573,Bill Analysis,1991-HB-4834,1992-PA-11,application/pdf,1991-06-27
-cdm147574,147574,Bill analysis,1991-HB-4834,1992-PA-11,application/pdf,1992-02-18
+cdm147573,147573,Bill Analysis,1991-HB-4834,1992_PA_11,application/pdf,1991-06-27
+cdm147574,147574,Bill analysis,1991-HB-4834,1992_PA_11,application/pdf,1992-02-18
 cdm147575,147575,Bill analysis,1993-HB-4278;1993-HB-4279;1993-HB-4280;1993-HB-4281;1993-HB-4282;1993-HB-4283;1993-HB-4284;1993-HB-4285;1993-HB-4286;1993-HJR-G;1993-SB-146,1993-PA-312;1994-PA-280;1994-PA-281;1994-PA-282,application/pdf,1993-03-17
 cdm147576,147576,Ballot proposal A June 1993,1993-HJR-G,,application/pdf,1993-06-02
 cdm147577,147577,Analysis of 1993 HJR G (Proposal A),1993-HJR-G,,application/pdf,1993-05-15
@@ -2126,12 +2126,12 @@ cdm148493,148493,Bill analysis,1983-SB-482,1984-PA-408,application/pdf,1984-02-0
 cdm148494,148494,Bill analysis,1983-SB-482,1984-PA-408,application/pdf,1984-04-24
 cdm148495,148495,Public Act,1983-SB-482,1984-PA-408,application/pdf,1984
 cdm148496,148496,House Journal entries,1995-HB-4242,1995-PA-261,application/pdf,1995
-cdm148786,148786,Bill Summary,1991-HB-4108,1992-PA-1,application/pdf,1991-02-15
-cdm148788,148788,Enrolled bill,1991-HB-4108,1992-PA-1,application/pdf,1991
-cdm148789,148789,Bill analysis,1991-HB-4108,1992-PA-1,application/pdf,1991-02-21
-cdm148790,148790,Senate Journal entries,1991-HB-4108,1992-PA-1,application/pdf,1991
-cdm148787,148787,Bill analysis,1991-HB-4108,1992-PA-1,application/pdf,1991-02-26
-cdm148795,148795,Bill analysis,1991-HB-4108,1992-PA-1,application/pdf,1991-11-18
-cdm148791,148791,Bill analysis,1991-HB-4108,1992-PA-1,application/pdf,1992-04-21
-cdm148793,148793,Bill analysis,1991-HB-4108,1992-PA-1,application/pdf,1992
-cdm148794,148794,Introduced bill,1991-HB-4108,1992-PA-1,application/pdf,1991-02-07
+cdm148786,148786,Bill Summary,1991-HB-4108,1992_PA_1,application/pdf,1991-02-15
+cdm148788,148788,Enrolled bill,1991-HB-4108,1992_PA_1,application/pdf,1991
+cdm148789,148789,Bill analysis,1991-HB-4108,1992_PA_1,application/pdf,1991-02-21
+cdm148790,148790,Senate Journal entries,1991-HB-4108,1992_PA_1,application/pdf,1991
+cdm148787,148787,Bill analysis,1991-HB-4108,1992_PA_1,application/pdf,1991-02-26
+cdm148795,148795,Bill analysis,1991-HB-4108,1992_PA_1,application/pdf,1991-11-18
+cdm148791,148791,Bill analysis,1991-HB-4108,1992_PA_1,application/pdf,1992-04-21
+cdm148793,148793,Bill analysis,1991-HB-4108,1992_PA_1,application/pdf,1992
+cdm148794,148794,Introduced bill,1991-HB-4108,1992_PA_1,application/pdf,1991-02-07
