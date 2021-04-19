@@ -23,7 +23,7 @@ We hope to develop and maintain this useful information as part of the regular c
 
 ### Features
 
-- Search by public act number in the following exact format: [1976-PA-390](https://temoshee.github.io/lmdigitalstatic2/browse.html#1976-pa-390)
+- Search by public act number in the following exact format: [1976-PA-390](https://libraryofmichigan.github.io/billanalysis/browse.html#1976-PA-390)
 - This site does not search the text of any documents
 
 ### Questions
