@@ -15,7 +15,7 @@ The State Law Library frequently receives requests for scanned images of paper d
 
 ### Daily requests for unique items
 
-Many of these documents may not be available elsewhere. Before we set up a scanner the practice was to photocopy the pages and send them to the researcher. Consequently, some of the pages have been run through photocopiers so many times that the ink is disappearing. By scanning once and then posting the images here it helps with preservation.
+Many of these documents may not be available elsewhere. Before we set up a document scanner the practice was to photocopy the pages and send them to the researcher. Consequently, some of the pages have been run through photocopiers so many times that the ink is disappearing. By scanning once and then posting the images here it helps with preservation.
 
 ### A living knowledge base
 
