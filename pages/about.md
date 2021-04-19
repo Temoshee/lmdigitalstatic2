@@ -9,7 +9,7 @@ credits: false
 
 # About the Collection 
 
-### This is a collection of selected legislative history documents mostly from 1973-1995.
+### This is a random collection of legislative history documents mostly from 1973-1995.
 
 The State Law Library frequently receives requests for scanned images of paper documents related to the legislative history of Michigan public acts. Rather then delete these files, we put them here for the next time. This is a random sample collection based on library patron requests. The Law Library has thousands of paper pages of legislative history documents which have not been digitized. If you do not find what you seek here please send us an email at lmlawlib@michigan.gov
 
